@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\bin\Debug\net9.0\Básicos.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\bin\Debug\net9.0\Básicos.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\bin\Debug\net9.0\Básicos.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\bin\Debug\net9.0\Básicos.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\bin\Debug\net9.0\Básicos.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\refint\Básicos.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\Básicos.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Estudos-CSharp\Básicos\obj\Debug\net9.0\ref\Básicos.dll
