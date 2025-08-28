@@ -3,9 +3,9 @@
     private static void Main(string[] args)
     {
         var (R, S, V) = PreencheVetor();
-        Console.WriteLine("R: " + string.Join(", ", R));
-        Console.WriteLine("S: " + string.Join(", ", S));
-        Console.WriteLine("V (sem repetição): " + string.Join(", ", V));
+        Console.WriteLine("R: " + string.Join("- ", R));
+        Console.WriteLine("S: " + string.Join("- ", S));
+        Console.WriteLine("V (sem repetição): " + string.Join("- ", V));
     }
 
     static (int[] R, int[] S, int[] V) PreencheVetor()
