@@ -3,7 +3,6 @@
     private static void Main(string[] args)
     {
         string n;
-
         do
         {
             Console.WriteLine("Escreva um número inteiro com 4 algarismos: ");
