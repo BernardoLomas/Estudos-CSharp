@@ -29,7 +29,7 @@
 
     static void MostraResultado1(double resultado)
     {
-        Console.WriteLine($"O resultado da primeia sequência é: {resultado}.");
+        Console.WriteLine($"O resultado da primeira sequência é: {resultado}.");
     }
 
     static int Sequencia2(int n)
