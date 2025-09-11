@@ -16,4 +16,4 @@ Praticar conceitos fundamentais da linguagem e fortalecer a lógica de programa�
 ## Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/estudos-csharp.git
+   https://github.com/BernardoLomas/Estudos-CSharp.git
