@@ -9,6 +9,10 @@ Este repositório reúne meus exercícios e práticas em **C#**, desenvolvidos d
 - Funções e modularização
 - Entrada e saída de dados no console
 - Exercícios práticos de lógica
+- Classes
+- Struct
+- List
+
 
 ## Objetivo
 Praticar conceitos fundamentais da linguagem e fortalecer a lógica de programação para projetos futuros.
