@@ -1,51 +1,40 @@
-﻿class Program
+﻿
+public class Program
 {
-    private static void Main(string[] args)
+    public static void Main()
     {
-        var (notas1, notas2, notas3, alunos) = Notas();
-
-        for (int i = 0; i < alunos.Length; i++)
+        double mediaSetembro = 0;
+        double mediaNovembro = 0;
+        double contSetembro = 0;
+        double contNovembro = 0;
+        double[] temperaturasSetembro = new double[30]
         {
-            Console.WriteLine($"Nota total do aluno {i + 1}/20 : {alunos[i]}");
+            27.0, 30.0, 27.5, 28.5, 28.2, 28.8, 28.3, 27.7, 28.4, 27.6,
+            28.1, 27.9, 28.6, 27.4, 30.2, 28.8, 28.3, 27.7, 28.4, 27.6,
+            29.1, 28.7, 31.0, 27.4, 30.2, 27.8, 28.3, 28.7, 28.4, 28.6
+        };
+
+        double[] temperaturasNovembro = new double[30]
+            {
+            26.0, 27.2, 28.5, 29.0, 26.5, 27.8, 28.1, 29.2, 26.3, 27.6,
+            28.4, 29.1, 26.7, 27.9, 28.3, 29.5, 26.9, 27.1, 28.7, 29.3,
+            26.8, 27.4, 28.2, 29.4, 20.6, 27.3, 28.6, 29.7, 20.4, 27.7
+        };
+
+        foreach (double temp in temperaturasSetembro)
+        {
+            contSetembro += temp;
+            mediaSetembro = contSetembro / temperaturasSetembro.Length;
+        }
+        foreach (double temp in temperaturasNovembro)
+        {
+            contNovembro += temp;
+            mediaNovembro = contNovembro / temperaturasNovembro.Length;
         }
 
-        var (med1, med2, med3) = Medias(notas1, notas2, notas3);
-        Console.WriteLine($"Nota média da turma na prova 1: {med1:F2}");
-        Console.WriteLine($"Nota média da turma na prova 2: {med2:F2}");
-        Console.WriteLine($"Nota média da turma na prova 3: {med3:F2}");
-    }
-    static (double[] notas1, double[] notas2, double[] notas3, double[] alunos) Notas()
-    {
-        double[] alunos = new double[20];
-        double[] notas1 = new double[20];
-        double[] notas2 = new double[20];
-        double[] notas3 = new double[20];
-        Random X = new Random();
-
-        for (int i = 0; i < alunos.Length; i++)
-        {
-            notas1[i] = X.Next(1, 11);
-            notas2[i] = X.Next(1, 11);
-            notas3[i] = X.Next(1, 11);
-            alunos[i] = notas1[i] + notas2[i] + notas3[i];
-        }
-
-        return (notas1, notas2, notas3, alunos);
-    }
-
-
-    static (double media1, double media2, double media3) Medias(double[] notas1, double[] notas2, double[] notas3)
-    {
-        double soma1 = 0, soma2 = 0, soma3 = 0;
-
-        for (int i = 0; i < notas1.Length; i++) soma1 += notas1[i];
-        for (int i = 0; i < notas2.Length; i++) soma2 += notas2[i];
-        for (int i = 0; i < notas3.Length; i++) soma3 += notas3[i];
-
-        double media1 = (double)soma1 / notas1.Length;
-        double media2 = (double)soma2 / notas2.Length;
-        double media3 = (double)soma3 / notas3.Length;
-
-        return (media1, media2, media3);
+        if (mediaSetembro > mediaNovembro)
+            Console.WriteLine($"Média de temperatura em Setembro: {mediaSetembro}, foi maior que Novembro: {mediaNovembro}");
+        else
+            Console.WriteLine($"Média de temperatura em Novembro:{mediaNovembro}, foi maior que Novembro:{mediaSetembro}");
     }
 }

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "MbZgQllleWw=",
   "success": true,
   "projectFilePath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
-=======
-  "dgSpecHash": "Pb5P2JQH7cU=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
->>>>>>> d17b2d3867cf12e58fa4b52a4b57c8558647e9b7
   "expectedPackageFiles": [],
   "logs": []
 }
