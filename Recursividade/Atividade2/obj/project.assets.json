@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\berna\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
-      "projectName": "Atividade7",
-      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Recursividade\\Atividade2\\Atividade2.csproj",
+      "projectName": "Atividade2",
+      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Recursividade\\Atividade2\\Atividade2.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade7\\obj\\",
+      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Recursividade\\Atividade2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -43,11 +43,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
