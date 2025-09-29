@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade3\\Atividade3.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade3\\Atividade3.csproj",
       "projectName": "Atividade3",
-      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade3\\Atividade3.csproj",
+      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade3\\Atividade3.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade3\\obj\\",
+      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade6\\Atividade6.csproj": {}
+    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade6\\Atividade6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade6\\Atividade6.csproj": {
+    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade6\\Atividade6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade6\\Atividade6.csproj",
+        "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade6\\Atividade6.csproj",
         "projectName": "Atividade6",
-        "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade6\\Atividade6.csproj",
+        "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade6\\Atividade6.csproj",
         "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade6\\obj\\",
+        "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

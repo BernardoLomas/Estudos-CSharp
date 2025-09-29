@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade8\\Atividade8.csproj": {}
+    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade8\\Atividade8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade8\\Atividade8.csproj": {
+    "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade8\\Atividade8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade8\\Atividade8.csproj",
+        "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade8\\Atividade8.csproj",
         "projectName": "Atividade8",
-        "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade8\\Atividade8.csproj",
+        "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade8\\Atividade8.csproj",
         "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade8\\obj\\",
+        "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"

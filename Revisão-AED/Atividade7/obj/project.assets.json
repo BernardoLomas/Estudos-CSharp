@@ -1,19 +1,11 @@
 {
   "version": 3,
   "targets": {
-<<<<<<< HEAD
     "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net8.0": []
-=======
-    "net9.0": {}
-  },
-  "libraries": {},
-  "projectFileDependencyGroups": {
-    "net9.0": []
->>>>>>> d17b2d3867cf12e58fa4b52a4b57c8558647e9b7
   },
   "packageFolders": {
     "C:\\Users\\berna\\.nuget\\packages\\": {}
@@ -21,41 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade7\\Atividade7.csproj",
       "projectName": "Atividade7",
-      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
+      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade7\\Atividade7.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Atividade7\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
-      "projectName": "Atividade7",
-      "projectPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade7\\Atividade7.csproj",
-      "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Estudos-CSharp\\Atividade7\\obj\\",
->>>>>>> d17b2d3867cf12e58fa4b52a4b57c8558647e9b7
+      "outputPath": "C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-<<<<<<< HEAD
         "net8.0"
-=======
-        "net9.0"
->>>>>>> d17b2d3867cf12e58fa4b52a4b57c8558647e9b7
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-<<<<<<< HEAD
         "net8.0": {
           "targetAlias": "net8.0",
-=======
-        "net9.0": {
-          "targetAlias": "net9.0",
->>>>>>> d17b2d3867cf12e58fa4b52a4b57c8558647e9b7
           "projectReferences": {}
         }
       },
@@ -68,20 +43,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-<<<<<<< HEAD
-      }
-    },
-    "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
-=======
       },
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
->>>>>>> d17b2d3867cf12e58fa4b52a4b57c8558647e9b7
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -93,17 +60,39 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.17, 8.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.17, 8.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.17, 8.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.17, 8.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
->>>>>>> d17b2d3867cf12e58fa4b52a4b57c8558647e9b7
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\berna\\Documents\\Repositórios GitHub\\Estudos-CSharp\\Revisão-AED\\Atividade7\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }
