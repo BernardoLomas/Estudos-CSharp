@@ -38,10 +38,7 @@ class Aluno
     {
         return $"Nome: {Nome}\nEmail: {Email}\nData de Nascimento: {Nascimento}\nTelefone: {Telefone}\n";
     }
-}
 
-class Program
-{
     static void Main()
     {
         DataNascimento data1 = new DataNascimento(25, 01, 2007);
