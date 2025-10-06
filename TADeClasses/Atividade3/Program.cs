@@ -45,7 +45,7 @@ class Program
     static void Main()
     {
         Aluno[] alunos = new Aluno[50];
-        int quantidade = 2; //Usei 5 somente para testar se tava funcionando professor.
+        int quantidade = 5; 
 
         for (int i = 0; i < quantidade; i++)
         {
