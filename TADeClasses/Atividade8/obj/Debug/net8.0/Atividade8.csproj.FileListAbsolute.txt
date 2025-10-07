@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\bin\Debug\net8.0\Atividade8.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\bin\Debug\net8.0\Atividade8.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\bin\Debug\net8.0\Atividade8.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\bin\Debug\net8.0\Atividade8.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\bin\Debug\net8.0\Atividade8.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\refint\Atividade8.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\Atividade8.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\TADeClasses\Atividade8\obj\Debug\net8.0\ref\Atividade8.dll
