@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\bin\Debug\net8.0\Atividade17.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\bin\Debug\net8.0\Atividade17.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\bin\Debug\net8.0\Atividade17.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\bin\Debug\net8.0\Atividade17.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\bin\Debug\net8.0\Atividade17.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\refint\Atividade17.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\Atividade17.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Revisão-AED\Atividade17\obj\Debug\net8.0\ref\Atividade17.dll
