@@ -45,11 +45,10 @@ class Program
 
         for (int i = 0; i < produtos.Length; i++)
         {
-            if (produtos[i].PrecoCompra > produtos[i].PrecoCompra * 2)
+            if (produtos[i].PrecoCompra > produtos[i].PrecoCompra * 1.5)
             {
-                
+                Console.WriteLine($"Esse produto {produtos[i].NomeProduto}, tem o preço de venda R${produtos[i].PrecoVenda}, pelo menos 50% maior do que o preço de compra: R${produtos[i].PrecoCompra}");
             }
-                Console.WriteLine($"Esse produto {produtos[i].NomeProduto}, tem o preço de venda R${produtos[i].PrecoVenda}, 50% maior do que o preço de compra: R${produtos[i].PrecoCompra}");
         }
 
 
