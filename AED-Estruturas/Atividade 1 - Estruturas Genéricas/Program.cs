@@ -13,7 +13,7 @@ namespace WorkBJA
     {
         static void Main()
         {
-            List<Student> StudentList = new List<Student>();
+            Stack<Student> StudentStack = new Stack<Student>();
 
             Student xStudent;
 
@@ -21,31 +21,30 @@ namespace WorkBJA
             xStudent.Id = "893969";
             xStudent.Name = "Bernardo Lomas";
             xStudent.Mail = "bernardo.lomasb@gmail.com";
-
-            StudentList.Add(xStudent); // Adiciona sempre no final da lista
-
-            xStudent = new Student();
-            xStudent.Id = "11111111";
-            xStudent.Name = "bbbbbbbb";
-            xStudent.Mail = "bbbbbb";
-
-            StudentList.Add(xStudent);
+            StudentStack.Push(xStudent);
 
             xStudent = new Student();
-            xStudent.Id = "222222";
-            xStudent.Name = "cccccc";
-            xStudent.Mail = "ccccccc";
+            xStudent.Id = "88888";
+            xStudent.Name = "ccccccccccc";
+            xStudent.Mail = "ccccccccccc";
+            StudentStack.Push(xStudent);
 
-            StudentList.Add(xStudent);
+            xStudent = new Student();
+            xStudent.Id = "777777";
+            xStudent.Name = "dddddddddd";
+            xStudent.Mail = "ddddddddddd";
+            StudentStack.Push(xStudent);
 
-            ShowStudents(StudentList);
+
+            ShowStudents(StudentStack);
+            Console.WriteLine($"Número de elementos: {StudentStack.Count}");
 
         }
-        static void ShowStudents(List<Student> xStudent)
+        static void ShowStudents(Stack<Student> Student)
         {
             Console.Write("\n");
             
-            foreach(Student x in xStudent)
+            foreach(Student x in Student)
             {
                 Console.WriteLine($"Nome: {x.Name}\n Matrícula: {x.Id}\n Email: {x.Mail}");
             }
