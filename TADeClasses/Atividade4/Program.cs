@@ -126,10 +126,9 @@ class Program
         }
     }
 
-    // Mostra apenas filmes de uma categoria específica
     static void ListarFilmesPorCategoria(Filmes[] filmes, string categoria)
     {
-        bool encontrou = false; // verifica se achou algum filme
+        bool encontrou = false; 
 
         for (int i = 0; i < filmes.Length; i++)
         {
