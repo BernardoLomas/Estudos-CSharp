@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\bin\Debug\net8.0\Atividade2 - Classes.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\bin\Debug\net8.0\Atividade2 - Classes.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\bin\Debug\net8.0\Atividade2 - Classes.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\bin\Debug\net8.0\Atividade2 - Classes.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\bin\Debug\net8.0\Atividade2 - Classes.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\refint\Atividade2 - Classes.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\Atividade2 - Classes.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\CursoUdemy\POO\Atividade2 - Classes\obj\Debug\net8.0\ref\Atividade2 - Classes.dll

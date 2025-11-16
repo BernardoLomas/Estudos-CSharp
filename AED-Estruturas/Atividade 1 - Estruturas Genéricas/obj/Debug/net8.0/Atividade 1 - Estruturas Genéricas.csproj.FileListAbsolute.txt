@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\bin\Debug\net8.0\Atividade 1 - Estruturas Genéricas.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\bin\Debug\net8.0\Atividade 1 - Estruturas Genéricas.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\bin\Debug\net8.0\Atividade 1 - Estruturas Genéricas.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\bin\Debug\net8.0\Atividade 1 - Estruturas Genéricas.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\bin\Debug\net8.0\Atividade 1 - Estruturas Genéricas.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\refint\Atividade 1 - Estruturas Genéricas.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\Atividade 1 - Estruturas Genéricas.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\AED-Estruturas\Atividade 1 - Estruturas Genéricas\obj\Debug\net8.0\ref\Atividade 1 - Estruturas Genéricas.dll
