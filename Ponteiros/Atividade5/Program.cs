@@ -1,2 +1,76 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Collections.Generic;
+
+class Cidade
+{
+    public string Nome { get; set; }
+    public double Latitude { get; set; }
+    public double Longitude { get; set; }
+    public Cidade Proximo {get; set;}
+
+    public Cidade(string nome, double lat, double lon)
+    {
+        Nome = nome;
+        Latitude = lat;
+        Longitude = lon;
+        Proximo = null;
+    }
+
+}
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Quantas cidades possui o roteiro? ");
+        int n = int.Parse(Console.ReadLine());
+
+        Cidade Primeiro = null;
+        Cidade Ultimo = null;
+
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write($"Nome da cidade {i + 1}: ");
+            string nome = Console.ReadLine();
+            Console.Write($"Latitude da cidade {i + 1}: ");
+            double lat = double.Parse(Console.ReadLine());
+            Console.Write($"Longitude da cidade {i + 1}: ");
+            double lon = double.Parse(Console.ReadLine());
+
+            Cidade Novo = new Cidade(nome, lat, lon);
+
+            if(Primeiro == null)
+            {
+                Primeiro = Novo;
+                Ultimo = Novo;
+            }
+            else
+            {
+                Ultimo.Proximo = Novo;
+                Ultimo = Novo;
+            }
+        }
+
+        double Distancia = 0;
+        Cidade Anterior = null;
+        Cidade Atual = Primeiro;
+
+        while (Atual != null)
+        {
+            if (Anterior != null)
+            {
+                double Dx = Atual.Latitude - Anterior.Latitude;
+                double Dy = Atual.Longitude - Anterior.Longitude;
+                double D = Math.Sqrt(Dx * Dx + Dy * Dy);
+                Distancia += D;
+
+                Console.WriteLine($"Distância de {Anterior.Nome} para {Atual.Nome} é igual a {D:F2}.");
+            }
+
+            Anterior = Atual;
+            Atual = Atual.Proximo;
+        }
+
+        Console.WriteLine($"\nA distância total do roteiro é: {Distancia:F2}!");
+    }
+}
