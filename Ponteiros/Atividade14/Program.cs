@@ -53,7 +53,7 @@ class Program
                     }
                     else
                     {
-                        Atual = back.Pop();
+                        Atual = back.Pop(); // Pop retorna e remove o item que está no topo, nesse caso, o usuário deseja voltar para um página para trás, assim o código remove a atual que está no topo, e a anterior se torna a do topo.
                         Console.WriteLine($"Voltando para: {Atual.Titulo}");
                     }
                     break;
