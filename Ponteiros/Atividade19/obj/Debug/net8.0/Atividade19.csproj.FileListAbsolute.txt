@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\bin\Debug\net8.0\Atividade19.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\bin\Debug\net8.0\Atividade19.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\bin\Debug\net8.0\Atividade19.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\bin\Debug\net8.0\Atividade19.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\bin\Debug\net8.0\Atividade19.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\refint\Atividade19.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\Atividade19.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade19\obj\Debug\net8.0\ref\Atividade19.dll
