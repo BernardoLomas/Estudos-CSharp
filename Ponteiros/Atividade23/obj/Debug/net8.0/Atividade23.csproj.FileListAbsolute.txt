@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\bin\Debug\net8.0\Atividade23.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\bin\Debug\net8.0\Atividade23.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\bin\Debug\net8.0\Atividade23.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\bin\Debug\net8.0\Atividade23.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\bin\Debug\net8.0\Atividade23.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\refint\Atividade23.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\Atividade23.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade23\obj\Debug\net8.0\ref\Atividade23.dll
