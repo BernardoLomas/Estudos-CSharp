@@ -57,10 +57,9 @@ class Program
                 Ultimo = novo;
             }
         }
-        
+
         Console.WriteLine("\nLista na ordem normal:");
         Aluno Atual = Primeiro;
-
         Aluno Maior = Primeiro;
         Aluno Menor = Primeiro;
 

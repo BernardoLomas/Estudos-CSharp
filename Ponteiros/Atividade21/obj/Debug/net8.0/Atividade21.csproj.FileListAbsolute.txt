@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\bin\Debug\net8.0\Atividade21.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\bin\Debug\net8.0\Atividade21.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\bin\Debug\net8.0\Atividade21.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\bin\Debug\net8.0\Atividade21.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\bin\Debug\net8.0\Atividade21.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\refint\Atividade21.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\Atividade21.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade21\obj\Debug\net8.0\ref\Atividade21.dll
