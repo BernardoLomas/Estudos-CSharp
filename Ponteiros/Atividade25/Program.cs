@@ -17,7 +17,7 @@ class Program
         Console.WriteLine($"Escreva quantas pessoas deseja cadastrar: ");
         int quantidade = int.Parse(Console.ReadLine());
 
-        Ultimo = null;
+        Pessoa Ultimo = null;
 
         for (int i = 0; i < quantidade; i++)
         {
@@ -39,17 +39,15 @@ class Program
             }
         }
 
-        Console.WriteLine("\nLista Circular:");
+        Console.WriteLine($"Quantindade de voltas na lista: ");
+        int x = int.Parse(Console.ReadLine());
+        Pessoa atual = Ultimo.Proximo; // começa no primeiro
 
-        if (Ultimo != null)
+        for (int i = 0; i < x; i++)
         {
-            Pessoa atual = Ultimo.Proximo; // começa no primeiro
-            do
-            {
-                Console.WriteLine(atual.Nome);
-                atual = atual.Proximo;
-            }
-            while (atual != Ultimo.Proximo); // voltou para o início
+            atual = atual.Proximo;
         }
+        
+        Console.WriteLine($"Pessoa sorteada: {atual.Nome}");
     }
 }
