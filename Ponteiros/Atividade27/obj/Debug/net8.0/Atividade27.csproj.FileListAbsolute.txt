@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\bin\Debug\net8.0\Atividade27.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\bin\Debug\net8.0\Atividade27.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\bin\Debug\net8.0\Atividade27.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\bin\Debug\net8.0\Atividade27.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\bin\Debug\net8.0\Atividade27.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\refint\Atividade27.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\Atividade27.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade27\obj\Debug\net8.0\ref\Atividade27.dll
