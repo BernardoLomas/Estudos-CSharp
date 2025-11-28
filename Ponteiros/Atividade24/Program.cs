@@ -46,7 +46,6 @@ class Program
                 Atual = Atual.Proximo;
             }
 
-            // Inserção
             novo.Proximo = Atual.Proximo;
             Atual.Proximo = novo;
         }
