@@ -64,7 +64,5 @@ class Program
             cont = 0;
             Console.WriteLine($"\n Volta {i + 1} completa!");
         }
-
-
     }
 }
