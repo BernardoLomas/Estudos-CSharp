@@ -1,0 +1,15 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.sourcelink.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\bin\Debug\net9.0\Atividade29.exe
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\bin\Debug\net9.0\Atividade29.deps.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\bin\Debug\net9.0\Atividade29.runtimeconfig.json
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\bin\Debug\net9.0\Atividade29.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\bin\Debug\net9.0\Atividade29.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\refint\Atividade29.dll
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.pdb
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\Atividade29.genruntimeconfig.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\Atividade29\obj\Debug\net9.0\ref\Atividade29.dll
