@@ -1,0 +1,5 @@
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\HashTable2\obj\Debug\net8.0\HashTable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\HashTable2\obj\Debug\net8.0\HashTable2.AssemblyInfoInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\HashTable2\obj\Debug\net8.0\HashTable2.AssemblyInfo.cs
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\HashTable2\obj\Debug\net8.0\HashTable2.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\Repositórios GitHub\Estudos-CSharp\Ponteiros\HashTable2\obj\Debug\net8.0\HashTable2.sourcelink.json
